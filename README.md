@@ -1,4 +1,3 @@
 # hello-world
-Repository for a noob
-Começando a aprender isto com alguns anos de atraso.
-Vamos colocar algum HTML e CSS?
+
+Learning how to use github. This is a new version of the readme, following tutorial instructions
